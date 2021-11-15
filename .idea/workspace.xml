@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8530e-9f3c-4bae-be43-d473de2bfba6" name="Changes" comment="" />
+    <list default="true" id="7ff8530e-9f3c-4bae-be43-d473de2bfba6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/(9)test_for_project_lex_PL/TestLexer0_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/(9)test_for_project_lex_PL/TestLexer0_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(9)test_for_project_lex_PL/data" beforeDir="false" afterPath="$PROJECT_DIR$/(9)test_for_project_lex_PL/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/(9)test_for_project_lex_PL/TestLexer0_1.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CommaSeparatedValues" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
