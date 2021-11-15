@@ -11,10 +11,10 @@ states = (
     ("language", "exclusive"),
     ("leader", "exclusive")
 )
-t_ANY_ignore = r",\""
+t_ANY_ignore = r","
 
 def t_STR(t):
-    r"[^,]+|[\"\".+\"\"]"
+    r"[^,]"
     t.type = "COUNTRY"
     t.lexer.begin("capital")
     return t
