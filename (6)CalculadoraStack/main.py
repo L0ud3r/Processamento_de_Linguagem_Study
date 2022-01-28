@@ -1,8 +1,7 @@
 # stack_calculator.py
-
 import ply.lex as lex
-from calculadoraPly import Calculadora
 
+from calculadoraPly import Calculadora
 class Calculator:
 
     def __init__(self):
